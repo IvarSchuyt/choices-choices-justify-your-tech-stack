@@ -1,25 +1,33 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-justify-your-tech-stack/blob/main/docs/INSTRUCTIONS.md)
+> _Fork_ deze leertaak en ga aan de slag. 
+Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
+De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
 
-# Justify your Tech-stack
+# Titel
+<!-- Geef je project een titel en schrijf in één zin wat het is -->
 
-Verantwoord en presenteer je keuze voor een tech-stack.
+## Inhoudsopgave
 
-<!-- Haal bovenstaande tekst weg! -->
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
+## Beschrijving
+<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+<!-- Voeg een mooie poster visual toe 📸 -->
+<!-- Voeg een link toe naar Github Pages 🌐-->
 
-<!-- Schrijf een mooie inleiding, beschrijf minstens de aanleiding - waarom doe je deze opdracht - en de tech-stack die je onderzoekt. Beschrijf daarna heel kort de stappen bij 2, 3, 4 en 5. -->
+## Kenmerken
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de gebruikservaring (UX) -->
+## Installatie
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de ontwikkelervaring (DX) -->
+## Gebruik
 
-<!-- Beschrijf in een alinea de conclusie en belangrijkste inzichten met betrekking tot de content management ervaring (CMX) -->
-
-<!-- Neem als conclusie een alinea op waarin je de voorwaarden benoemd die deze tech-stack aan de betrokken partijen stelt. -->
-
-<!-- De licentie hieronder mag je ook weg halen, of laten staan, wat je wilt -->
+## Bronnen
 
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
-
